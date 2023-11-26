@@ -1,2 +1,3 @@
 # Tableau--Super-Store-Story
-Super store data is used to create a visualisation 
+
+This project aims to create a dashboard which will display the visualisation of Super store data
